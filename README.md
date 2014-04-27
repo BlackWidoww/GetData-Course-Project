@@ -1,9 +1,10 @@
 ==================================================================
-Human Activity Recognition Using Smartphones Dataset
 Coursera Getting and Cleaning Data Course Project
+Human Activity Recognition Using Smartphones Dataset
 ==================================================================
 
 Courtney Shelley
+
 UC Davis Graduate Group in Epidemiology
 5215 VM3A
 One Shields Avenue

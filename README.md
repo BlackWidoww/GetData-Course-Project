@@ -23,9 +23,9 @@ The GetData-Course-Project repository includes the following files:
 
 - 'README.txt'
 
-- 'tidy.txt':  Tidy data set for further analysis.
+- 'tidy.txt':  Tidy data set for further analysis.  (Removed for project submission)
 
-- 'meanData.txt': Calculated means of all columns in tidy.txt.
+- 'meanData.txt': Calculated means of all columns in tidy.txt.  (Removed for project submission)
 
 - 'run_analysis.R': Code to reproduce tidy data set and means data set.
 

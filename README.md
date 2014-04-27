@@ -1,14 +1,15 @@
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
-
 Coursera Getting and Cleaning Data Course Project
 ==================================================================
+
 Courtney Shelley
 UC Davis Graduate Group in Epidemiology
 5215 VM3A
 One Shields Avenue
 C/O VM: PMI 
 Davis, CA 95616-5294
+
 ==================================================================
 
 Data was collected while study participants performed various activities with the Samsung Galaxy S3 smartphone in their pockets.   Activities included: laying (1407 cases), sitting (1286 cases), standing (1374 cases), walking (1226 cases), walking downstairs (986 cases), and walking upstairs (1073 cases) for a total of 7352 subjects with no missing data in the set.   Data consists of acceleration measurements taken over the X-, Y-, and Z-axis, as well as pre-calculated mean acceleration rates and standard deviation of the mean over each axis for each activity type.   
